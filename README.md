@@ -1,1 +1,1 @@
-# Sample This GitHub
+# Sample
